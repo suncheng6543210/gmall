@@ -1,8 +1,8 @@
-package com.sanjiang.gmall.user.service;
+package com.sanjiang.gmall.service;
 
 
-import com.sanjiang.gmall.user.bean.UmsMember;
-import com.sanjiang.gmall.user.bean.UmsMemberReceiveAddress;
+import com.sanjiang.gmall.bean.UmsMember;
+import com.sanjiang.gmall.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 

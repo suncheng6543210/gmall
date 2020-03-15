@@ -1,13 +1,12 @@
 package com.sanjiang.gmall.user.service.impl;
 
-import com.sanjiang.gmall.user.bean.UmsMember;
-import com.sanjiang.gmall.user.bean.UmsMemberReceiveAddress;
+import com.sanjiang.gmall.service.UserService;//api
+import com.sanjiang.gmall.bean.UmsMember;
+import com.sanjiang.gmall.bean.UmsMemberReceiveAddress;
 import com.sanjiang.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.sanjiang.gmall.user.mapper.UserMapper;
-import com.sanjiang.gmall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 

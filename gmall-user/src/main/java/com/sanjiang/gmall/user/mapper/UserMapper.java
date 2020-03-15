@@ -1,6 +1,6 @@
 package com.sanjiang.gmall.user.mapper;
 
-import com.sanjiang.gmall.user.bean.UmsMember;
+import com.sanjiang.gmall.bean.UmsMember;
 import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;
